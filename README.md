@@ -1,2 +1,2 @@
 # Selenide
-Basic example of Selenide libraries
+Basic example of Selenide librarie
